@@ -1,4 +1,4 @@
-# Pizza-Sales-Analysis
+# Pizza-Sales-Analysis Using MS SQL Server
 Analysis of Pizza Sales for 2015 for Plato's Pizza Place Using MS SQL Server.
 By using the Pizza sales data the following metrics are calculated.
 1. Total Revenue
